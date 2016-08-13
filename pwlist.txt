@@ -1,5 +1,5 @@
 TPLINKHACK
 11111111
 12345678
-ThisIsJustAnExcampleDictionary
+ThisIsJustAnEcampleDictionary
 END
